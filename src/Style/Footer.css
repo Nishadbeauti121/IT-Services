@@ -1,0 +1,80 @@
+.footer_right{
+    text-decoration:none;
+    color:black;
+   font-weight: bold;
+    font-style: unset;
+    border-bottom: 2px solid white;
+    width: 70%;
+    text-align: center;
+    letter-spacing: 1px;
+}
+.navlk{
+    color: black;
+}
+.navlk:hover{
+    color: gold;
+    transition: all ease 1s ;
+    cursor: pointer;
+}
+.footer_right:hover{
+    color: gold;
+    transition: all ease 1s ;
+    cursor: pointer;
+
+}
+
+.footer_mid{
+    text-decoration:none;
+    color:black;
+    font-weight: bold;
+    font-style: unset;
+     border-bottom: 2px solid white;
+    width: 70%;
+    text-align: center;
+}
+.footer_mid:hover{
+    color: gold;
+    transition: all ease 1s ;
+    cursor: pointer;
+
+}
+
+.footer_left{
+    /* text-decoration:underline; */
+    color:black;
+    font-weight: bold;
+
+    /* font-style: unset; */
+    border-bottom: 2px solid white;
+    width: 100%;
+    text-align: center;
+    text-decoration:none;
+  
+    font-style: unset;
+  
+  
+
+    letter-spacing: 1px;
+}
+.footer_left:hover{
+    color: gold;
+    transition: all ease 1s ;
+    cursor: pointer;
+
+}
+/* .footer_right{
+
+} */
+
+.inbox{
+    height:60px;
+    width:60px;
+    background-color: #055c61;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    margin-top:100px;
+    line-height: 60px;
+    position:absolute fixed;
+    
+}

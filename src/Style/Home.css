@@ -1,0 +1,89 @@
+.row3{
+    height:300px;
+    width:100%;
+    background-color:#2e7eb4;
+    float:left;
+}
+.top_list{
+    font-family: fantasy; 
+}
+.img1{
+    position: relative;
+    top: 0%;
+    left: 50%;
+    z-index: 1;
+    /* border: 2px solid black ; */
+    box-shadow: 0px 3px 15px 2px black;
+    max-height: 300px;
+}
+.img2{
+    position: relative;
+    top: 10%;
+    right: 4%;
+    /* border: 2px solid black ; */
+    box-shadow: 0px 3px 15px 2px black;
+    max-height: 300px;
+}
+.jjj{
+    max-height: 150px;
+    max-width: 150px !important;
+}
+html,body{
+    width: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    background: #065d62!important;
+
+}
+/* ------------ 4 step css start -------------- */
+
+.middle{
+    height:400px;
+    width:100%;
+    background: rgb(6, 93, 98)!important;
+}
+.heading{
+    color:white;
+}
+.para{
+    font-size:12px;
+    color:white;
+}
+
+
+.a{
+    height: 30px;
+    width:100%;
+    margin:40px;
+    padding:5px;
+    color:white;
+    font-style: oblique;
+}
+
+.imgg{
+    height:50%;
+    width:100%;
+    margin-top:40px;
+    padding-right:100px !important;
+    z-index:1;
+   
+    top: 0%;
+    right: 10%;
+    box-shadow: 0px 3px 15px 2px black;
+}
+/* ------------ 4 step css start -------------- */
+
+
+/* ------------ 5 step css start -------------- */
+
+
+.it_partner{
+    box-shadow: 0px 3px 15px 2px black;
+}
+.pargraph{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+/* ------------ 5 step css end -------------- */
